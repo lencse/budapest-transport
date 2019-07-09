@@ -50,5 +50,5 @@ Open the map for stops in interval [100, 110]
 
 ## Data source
 
-On the firt run, the script downloads the data provided by
+On the first run, the script downloads the data provided by
 [BKK](https://bkk.hu/tomegkozlekedes/fejlesztoknek/)
