@@ -1,7 +1,8 @@
 # Budapest public transport stops
 
 A script to analyze the distance between stops of public transport in Budapest 
-Blog post about the project (hungarian): https://lencse.tumblr.com/post/184029533037/hol-kell-a-legt%C3%B6bbet-gyalogolni-egy-%C3%A1tsz%C3%A1ll%C3%A1shoz
+
+[Blog post about the project (hungarian)](https://lencse.tumblr.com/post/184029533037/hol-kell-a-legt%C3%B6bbet-gyalogolni-egy-%C3%A1tsz%C3%A1ll%C3%A1shoz)
 
 ## Prerequisites
 
